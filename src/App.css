@@ -1,0 +1,28 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:active {
+  background-color: #004d99;
+}
